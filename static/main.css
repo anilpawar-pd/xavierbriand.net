@@ -158,6 +158,10 @@ article > div > div.post {
     width: 522px;
 }
 
+.post aside {
+    margin-top: 1em;
+}
+
 .postMeta li span {
     font-size: 29px;
     color:#3ea3b5;
