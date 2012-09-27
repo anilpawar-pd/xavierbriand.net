@@ -10,11 +10,8 @@ Curriculum Vitae
 Xavier Briand
 -------------
 
-Currently **Developers' team leader** at **Sensio Labs**, and **Web & mobile
+Currently **senior developer** at **ExperiencePoint**, and **Web & mobile
 developer** (Founding partner) at **Freegli.com**.
-
-Actively seeking **full-time position** from july 2012 in **Toronto**,
-**Ontario** **Canada**.
 
 My speciality is **designing and developing web applications** with Open Sources
 technologies. I'm fully proficient with **PHP 5.3**, **Symfony2** framework
@@ -48,8 +45,12 @@ Otherwise I'm learning Python.
 Experience
 ----------
 
+★ Senior Web Application Developer @ `ExperiencePoint`_
+.......................................................
+*from august 2012* Toronto, ON Canada
+
 ★ Developers' Team Leader @ `SensioLabs`_
-...............................................
+.........................................
 *from july 2011 to july 2012* Paris, France
 
 About the company
@@ -286,6 +287,7 @@ Extra-professional activities
 .. [#symfony] Symfony is a PHP Web Development Framework. See `Symfony website`_
 
 .. _`Symfony website`: http://symfony.com/
+.. _`ExperiencePoint`: http://experiencepoint.com/
 .. _`SensioLabs`: http://sensiolabs.com/
 .. _`Extreme Sensio`: http://www.extreme-sensio.com/
 .. _`Freegli.com`: http://www.freegli.com/

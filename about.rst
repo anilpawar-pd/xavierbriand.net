@@ -3,7 +3,7 @@ public: no
 About me
 ========
 
-Me is Xavier Briand, currently *developers' team leader* at `SensioLabs`_.
+Me is Xavier Briand, currently *senior developer* at `ExperiencePoint`_.
 
   Check my `CV`_.
 
@@ -46,7 +46,7 @@ You can find me as **xavierbriand** here, here and also here on Internet:
    * INRAP http://www.inrap.fr/via_podcast/p-1182-Site-de-la-mediatheque-cathedrale-a-Reims.htm
 
 .. _CV: /cv/
-.. _SensioLabs: http://sensiolabs.com/
+.. _ExperiencePoint: http://experiencepoint.com/
 .. _Freegli.com: http://www.freegli.com/
 .. _iPhone app: http://itunes.apple.com/fr/app/jeux-gratuits-jeu-gratuit/id441824118?mt=8
 .. _read fantasy, SciFi, geek books: /last-books/
